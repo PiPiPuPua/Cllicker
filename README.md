@@ -1,2 +1,2 @@
-# Cllicker
-Кликер на Unity
+# Clicker
+## Проект лежит в ветке 'develop'!
